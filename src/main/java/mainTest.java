@@ -8,7 +8,7 @@ public class mainTest {
         NullObject test = NullObject.NULL;
         NullObject e = NullObjectImpl.NULL;
         NullObject d = new NullObjectImpl();
-        test.sayHello("yunshu321");
+        test.sayHello("yunshu");
         e.sayHello("yunshu");
         d.sayHello("yunshu");
     }
