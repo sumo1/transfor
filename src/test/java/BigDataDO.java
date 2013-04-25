@@ -3,6 +3,7 @@
  * Date: 13-3-5
  */
 public class BigDataDO {
+
     private Long id;
     private String name;
 
